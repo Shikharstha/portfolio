@@ -1,20 +1,22 @@
 <h1>Hi, I'm Shikhar!</h1>
-<h3><a href="https://www.linkedin.com/in/shikharstha/">Product, Project/Program/Portfolio Management Professional</a></h3>
-<h3><a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7137295985310924800">Notes on building agile products and team </a></h3>
+<h3><a href="https://www.linkedin.com/in/shikharstha/">Product, Project/Program/Portfolio Management Professional</a>:rocket:</h3> 
+<h3><a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7137295985310924800">Notes on building agile products and team </a>:bulb:</h3>
 
 As a people-first agile product leader, I excel in driving product development and delivering exceptional results. With a Product Management Certificate from Cornell University and a Bachelor's degree in Information Systems, coupled with hands-on experience in diverse industries, I bring a unique blend of skills to the table. I believe in fostering continous improvements and product development processses that help teams do best work. 
 
-With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, PowerBI, SQL, and more, along with a passion for emerging technologies and leadership development, I am poised to drive impactful product initiatives and propel organizations forward.
+Throughout, Shikhar has built deep digital business transformation expertise by working closely with Sr. Director and VP -level stakeholders alleviate their primary challenges through Strategic Planning, Change Management, Resource Management, Risk Management, Stakeholder Engagement, and Performance Monitoring across R&D, POC, Supply Chain, Manufacturing, Data & Analytics, IT, HR, and SaaS Product.
+
+Shikhar's distinct comprehension of end-to-end PLC along with business & technical leadership has enabled him to spearhead enterprise-wide digital transformation initiatives. With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, SQL, and more, along with a passion for emerging technologies and leadership development, Shikhar is poised to drive impactful product initiatives and propel organizations forward.
 
 ## What I am currently working on
-* ### [Cognex Camera Vision - Automated Inventory Count at Tyson Foods](CognexProduct@tysonfoods.md)
+* ### [Cognex Camera Vision - Automated Inventory Count at Tyson Foods](CognexProduct@tysonfoods.md) :robot:
 
 ## Check out my previous product projects
-* ### [Gocator Computer Vision - Meat Thickness Measurement at Tyson Foods](GocatorProduct@tysonfoods.md)
-* ### [Agile Data Analytics & UX Products at Tyson Foods](DataAnalytics&UXUI@tysonfoods.md)
-* ### [Software-as-a-Service (Saas) Products at Mid-America Co.](SaaSproduct@MACC.md)
-* ### [Web Application Product at Creighton](WebAppsProduct@Creighton.md)
-* ### [Tableau Cloud Product at Creighton](TableauMVP@Creighton.md)
+* ### [Gocator Computer Vision - Meat Thickness Measurement at Tyson Foods](GocatorProduct@tysonfoods.md) :robot:
+* ### [Agile Data Analytics & UX Products at Tyson Foods](DataAnalytics&UXUI@tysonfoods.md) :chart_increasing:
+* ### [Software-as-a-Service (Saas) Products at Mid-America Co.](SaaSproduct@MACC.md) :computer:
+* ### [Web Application Product at Creighton](WebAppsProduct@Creighton.md) :globe_with_meridians:
+* ### [Tableau Cloud Product at Creighton](TableauMVP@Creighton.md) :cloud:
 
 <!---## PROFESSIONAL EXPRERIENCE
 ##### Tyson Foods Inc., Manager Project and Product, Springdale, AR (2023 - Present) <br />
