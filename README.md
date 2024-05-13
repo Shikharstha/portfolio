@@ -13,7 +13,7 @@ Shikhar's distinct comprehension of end-to-end PLC along with business & technic
 
 ## Check out my previous product projects
 * ### [Gocator Computer Vision - Meat Thickness Measurement at Tyson Foods](GocatorProduct@tysonfoods.md) :robot:
-* ### [Agile Data Analytics & UX Products at Tyson Foods](DataAnalytics&UXUI@tysonfoods.md) :chart_increasing:
+* ### [Agile Data Analytics & UX Products at Tyson Foods](DataAnalytics&UXUI@tysonfoods.md) :chart_with_upwards_trend:
 * ### [Software-as-a-Service (Saas) Products at Mid-America Co.](SaaSproduct@MACC.md) :computer:
 * ### [Web Application Product at Creighton](WebAppsProduct@Creighton.md) :globe_with_meridians:
 * ### [Tableau Cloud Product at Creighton](TableauMVP@Creighton.md) :cloud:
