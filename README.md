@@ -19,7 +19,8 @@ Shikhar's distinct comprehension of end-to-end PLC along with business & technic
 * ### [Tableau Cloud Product at Creighton](TableauMVP@Creighton.md)
 
 ## Course Certificates
-* ### AWS Machine Learning [AWS Machine Learning](CoursesCertifications.md) 
+* ### [AWS Machine Learning](CoursesCertifications.md) 
+
 <!---## PROFESSIONAL EXPRERIENCE
 ##### Tyson Foods Inc., Manager Project and Product, Springdale, AR (2023 - Present) <br />
 Launched Gocator computer vision and Cognex camera vision (MVPs), awarded Lean Six Sigma Green Belt Certificate
@@ -36,6 +37,7 @@ Revamped 100+ web pages and mobile apps, user satisfaction scores soared by 25%,
 ## VOLUNTEER EXPERIENCE
 ##### Surya Social Service Society (4S), Project Coordinator, Jumla, Nepal (2012-2014)
 Coordinated people, transportation, and supplies for toilet construction activities in remote villages of Nepal --->
+
 ## CERTIFICATIONS
 Lean Six Sigma Green Belt, SAFe - Scrum Professional, Business Intelligence
 
