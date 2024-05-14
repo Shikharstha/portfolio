@@ -34,6 +34,8 @@ Revamped 100+ web pages and mobile apps, user satisfaction scores soared by 25%,
 ## VOLUNTEER EXPERIENCE
 ##### Surya Social Service Society (4S), Project Coordinator, Jumla, Nepal (2012-2014)
 Coordinated people, transportation, and supplies for toilet construction activities in remote villages of Nepal --->
+## CERTIFICATIONS
+Lean Six Sigma Green Belt, SAFe - Scrum Professional, Business Intelligence
 
 ## EDUCATION
 ##### CORNELL UNIVERSITY, Product Management Certificate, Ithaca, NY (2024) <br />
