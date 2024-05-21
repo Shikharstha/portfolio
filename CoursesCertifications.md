@@ -1,13 +1,13 @@
 # AWS Machine Learning
 
 **Introduction to Machine Learning**
-![IML](assets/IntroductiontoML.pdf)
+![IML](assets/IntroML.png)
 
 **Machine Learning Terminology**
-![MLT](assets/MLTerminology.pdf)
+![MLT](assets/MLTP.png)
 
 **Planning a Machine Learning Project**
-![MLT](assets/PlanningMLProject.pdf)
+![MLT](assets/PMLP.png)
 
 **ML for Business/Technical Decision Makers**
-![MLT](assets/MLEforB&TDecisionMakers.pdf)
+![MLT](assets/MLEssenBTDM.png)
