@@ -4,9 +4,9 @@
 
 As a people-first agile product leader, I excel in driving product development and delivering exceptional results. With a Product Management Certificate from Cornell University and a Bachelor's degree in Information Systems, coupled with hands-on experience in diverse industries, I bring a unique blend of skills to the table. I believe in fostering continous improvements and product development processses that help teams do best work. 
 
-Throughout, Shikhar has built deep digital business transformation expertise by working closely with Sr. Director and VP -level stakeholders alleviate their primary challenges through Strategic Planning, Change Management, Resource Management, Risk Management, Stakeholder Engagement, and Performance Monitoring across R&D, POC, Supply Chain, Manufacturing, Data & Analytics, IT, HR, and SaaS Product.
+Throughout, I have built deep digital business transformation expertise by working closely with Sr. Director and VP -level stakeholders alleviate their primary challenges through Strategic Planning, Change Management, Resource Management, Risk Management, Stakeholder Engagement, and Performance Monitoring across R&D, POC, Supply Chain, Manufacturing, Data & Analytics, IT, HR, and SaaS Product.
 
-Shikhar's distinct comprehension of end-to-end PLC along with business & technical leadership has enabled him to spearhead enterprise-wide digital transformation initiatives. With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, SQL, and more, along with a passion for emerging technologies and leadership development, Shikhar is poised to drive impactful product initiatives and propel organizations forward.
+My distinct comprehension of end-to-end PLC along with business & technical leadership has enabled me to spearhead enterprise-wide digital transformation initiatives. With a strong technical skill set encompassing tools like JIRA, Clarity, Mural, SQL, and more, along with a passion for emerging technologies and leadership development, I am poised to drive impactful product initiatives and propel organizations forward.
 
 ## What I am currently working on
 * ### [Cognex Camera Vision - Automated Inventory Count at Tyson Foods](CognexProduct@tysonfoods.md) 
