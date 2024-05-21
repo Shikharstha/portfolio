@@ -19,7 +19,7 @@ My distinct comprehension of end-to-end PLC along with business & technical lead
 * ### [Tableau Cloud Product at Creighton](TableauMVP@Creighton.md)
 
 ## Course Certificates
-* ### [AWS Machine Learning](CoursesCertifications.md) 
+* ### [AWS Machine Learning](AWSMachineLearning.md) 
 
 <!---## PROFESSIONAL EXPRERIENCE
 ##### Tyson Foods Inc., Manager Project and Product, Springdale, AR (2023 - Present) <br />
