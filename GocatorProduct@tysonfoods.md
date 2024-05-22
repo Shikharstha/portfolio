@@ -44,13 +44,13 @@ During the development phase used agile prototyping to make quick iterations and
 * Analyze gathered data to iterate 
 * Improve prototype and compare old baseline performance against new performance
 ![Prototype](assets/Prototype.png)
-![Dashboard](assets/IgnitionDashboardPrototype.png)
+<!---![Dashboard](assets/IgnitionDashboardPrototype.png)--->
 
 ## Phase 5 - MVP
 After the brainstorming sessions, iterative prototypes, and user feedbacks, I led the team to present the findings (Cost/Benefits) to senior leadership and key stakeholders to move forward with the MVP. I then used MoSCoW method to prioritize key features to include in our MVP given the budget, resource, and time constraints. Once we finalized the product requirements we got ready for the development. 
 ![PLC](assets/ProductProjectLifeCycle.png)
-![Gocator](assets/GocatorEmulatorPrototype.png)
-![Dashboard](assets/GocatorDashboard.png)
+<!--![Gocator](assets/GocatorEmulatorPrototype.png)
+![Dashboard](assets/GocatorDashboard.png)-->
 
 ## Phase 6 - Product Launch, Product Growth, & Tracking Metrics
 #### LAUNCH PLANNING <br />
